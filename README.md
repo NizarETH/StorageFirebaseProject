@@ -1,6 +1,6 @@
 **Le storage des fichiers en utilisant Firebase**
 <br/>
-<img width="213" alt="Capture d’écran 2024-08-01 à 12 48 18" src="https://github.com/user-attachments/assets/d366dcbb-352b-427f-9b2e-77d7ab436630">
+<img width="141" alt="Capture d’écran 2024-08-01 à 13 49 41" src="https://github.com/user-attachments/assets/ccf20ee6-13cf-4344-bd89-3fbaae1f205b">
 <br/>
 **il faut ajouter ces régles dans firbase  :**
 <br/>
