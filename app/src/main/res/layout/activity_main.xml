@@ -4,12 +4,27 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
     tools:context=".MainActivity">
 
     <Button
         android:id="@+id/uploadButton"
-        android:text="Upload"
+        android:text="Upload File"
+        android:layout_margin="2dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"  />
+    <Button
+        android:id="@+id/downloadButton"
+        android:layout_width="wrap_content"
 
+        android:layout_margin="2dp"
+        android:layout_height="wrap_content"
+        android:text="Download File" />
+    <TextView
+            android:id="@+id/file_link"
+            android:layout_margin="2dp"
+            android:textColor="@color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
 </LinearLayout>
